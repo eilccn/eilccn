@@ -10,6 +10,6 @@
 
 **design software:** figma, maya, mudbox, adobe:{after effects, premiere, illustrator, photoshop, character animator} 
 
-**learning:** processing, iOS development, blender, game development, electronics (arduino projects)
+**future learning:** processing, iOS development, blender, game development, electronics (arduino projects)
 
 ### **********
