@@ -4,9 +4,9 @@
 
 **special interests:** computer vision, computer graphics, human computer interaction, 2D and 3D animation, and web design and development 
 
-**programming skillset:** c++, python, java, javascript, css, html, sql, shell, latex
+**programming:** c++, python, java, javascript, css, html, sql, shell, latex
 
-**libraries+frameworks:** opencv, pytorch, tensorflow, react, jquery, nodejs, rest apis, mern stack
+**libraries + frameworks:** opencv, pytorch, tensorflow, react, jquery, nodejs, rest apis, mern stack
 
 **design software:** figma, maya, mudbox, adobe:{after effects, premiere, illustrator, photoshop, character animator} 
 
