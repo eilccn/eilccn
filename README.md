@@ -2,7 +2,7 @@
 
 **about me:** hi i'm eileen and i am a graduate student in computer science at northeastern university in boston, ma. 
 
-**special interests:** computer vision, computer graphics, human computer interaction, 2D and 3D animation, and web design and development 
+**special interests:** computer vision, computer graphics, human computer interaction, 2D + 3D animation, web design + development 
 
 **programming:** c++, python, java, javascript, css, html, sql, shell, latex
 
