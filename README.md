@@ -3,3 +3,5 @@
 
 **interests:** computer vision, computer graphics, game ai and development, vr/xr, hci, animation
 
+**learning:** unreal, unity, processing
+
