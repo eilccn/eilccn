@@ -1,6 +1,5 @@
 ### *✧･ﾟ: *✧･ﾟ:
-**about me:** mscs, northeastern university <br>
-**interests:** computer vision, game ai and development, web/ios development, vr/xr, hci, animation <br>
-**learning:** unreal, unity, processing <br>
+**interests:** game ai and development, computer vision, textiles, painting <br>
+**learning:** unreal engine, sewing, fabric mending, electronics <br>
 
 
